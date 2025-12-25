@@ -7,7 +7,7 @@ So far it supports:
 * **GCP PubSub**
 
 So far it supports: 
-* **Node** (Typescript) - Not available yet - will be published on NPM
+* **Node** (Typescript) - The node implementation is embedded in the [Toto API Controller](https://github.com/nicolasances/node-toto-api-controller) which already provides a way to manage cloud-agnostic pubsub.
 * **Python** - Published on [PyPi](https://pypi.org/project/totopubsub)
 
 ## Documentation
